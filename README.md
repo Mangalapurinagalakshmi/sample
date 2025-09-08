@@ -1,6 +1,6 @@
 # sample
-sample project to demonstrate creation of repository
-author: nagalakshmi
+sample project to creation of repository
+name : nagalakshmi
 roll number:245N1F0031
 college:ANMK
 
